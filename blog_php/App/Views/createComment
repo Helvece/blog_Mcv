@@ -1,0 +1,4 @@
+<form class="" action="/createComment" method="post">
+    <textarea id="content" name="htmlcontent" placeholder="article" columns="100" rows="20"></textarea>
+    <button type="submit" class="SubmitButton">publish</button>
+</form>
